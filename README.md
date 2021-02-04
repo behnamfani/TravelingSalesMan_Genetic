@@ -9,4 +9,5 @@ Crossover Algorithm: Cycle Recombination with 90% crossover rate (changeable)
 
 Mutation: Insert Mutation with 2% mutation rate (changeable)
 
+![](dis_epoch.png)
 
